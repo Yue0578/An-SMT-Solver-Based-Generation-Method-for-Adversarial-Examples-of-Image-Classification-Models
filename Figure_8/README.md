@@ -1,2 +1,0 @@
-The current folder corresponds to the experimental data in Figure 8 of the paper. 
-This folder contains two subfolders. The subfolder named "SSIM" represents white-box attacks constrained by SSIM, while the subfolder named "PSNR" represents white-box attacks constrained by PSNR. Each subfolder contains various attack methods, with method names corresponding to file names. For the execution instructions of each attack method, please refer to the "ReadMe" file within the respective folder.
